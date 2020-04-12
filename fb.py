@@ -34,3 +34,4 @@ client = fitbit.Fitbit(conf['ci'],conf['cs'],
 p.pprint(client.activities(date=sys.argv[2]))
 p.pprint(client.sleep(date=sys.argv[2]))
 
+
