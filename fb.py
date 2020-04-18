@@ -20,7 +20,7 @@ rt = tokens['refresh_token']
 
 #自動更新時のコールバックで再保存
 def update(token):
-    f = open('.tk', 'w')
+    f = open('.tk','w')
     f.write(str(token))
     f.close()
     return
