@@ -1,1 +1,3 @@
-fb.py: Commands for Fitbit 
+
+🏃 fb.py: Commands for Fitbit 
+
